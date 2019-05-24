@@ -1,3 +1,13 @@
 #BlueJ class context
 comment0.target=ShortCalculator
-numComments=1
+comment1.params=firstNum\ secondNum
+comment1.target=short\ sumShortValues(short,\ short)
+comment2.params=firstNum\ secondNum
+comment2.target=short\ diffShortValues(short,\ short)
+comment3.params=firstNum\ secondNum
+comment3.target=short\ productShortValues(short,\ short)
+comment4.params=firstNum\ secondNum
+comment4.target=short\ quotientShortValues(short,\ short)
+comment5.params=firstNum\ secondNum
+comment5.target=short\ remainderShortValues(short,\ short)
+numComments=6
